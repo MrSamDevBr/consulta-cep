@@ -1,11 +1,11 @@
 # projeto consulta-cep
 
-## Install Dependencies
+## Instalar Dependências
 ```
 pip install -r requirements.txt
 ```
 
-## Run Server
+## Rodar Servidor
 ```
 flask run
 ```
